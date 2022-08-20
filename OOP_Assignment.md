@@ -55,10 +55,10 @@ Properties
 
 👉 **Methods**
 
-    •add() is a method that returns the sum of num1 and num2.
-    •subtract() is a method that returns the subtraction of num1 from num2.
-    •multiply() is a method that returns the product of num1 and num2.
-    •divide() is a method that returns the division of num2 by num1.
+    • add() is a method that returns the sum of num1 and num2.
+    • subtract() is a method that returns the subtraction of num1 from num2.
+    • multiply() is a method that returns the product of num1 and num2.
+    • divide() is a method that returns the division of num2 by num1.
 
 Input
     - Pass numbers (integers or floats) in the initializer.
@@ -108,20 +108,21 @@ Implement the complete Student class by completing the tasks below
 
 👉 Implement the following properties as private:
 
-    •name
-    •rollNumber
+    • name
+    • rollNumber
 
 👉 Include the following methods to get and set the private properties above:
 
-    •getName()
-    •setName()
-    •getRollNumber()
-    •setRollNumber()
+    • getName()
+    • setName()
+    • getRollNumber()
+    • setRollNumber()
 
 👉 Implement this class according to the rules of encapsulation.
 
 Input
     - Checking all the properties and methods
+
 Output
     - Expecting perfectly defined fields and getter/setters
 
@@ -132,7 +133,7 @@ If the setter is not defined properly, the corresponding getter will also genera
 Coding exercise
 
     class Student:
-    
+
         def setName(self):
             pass
         def getName(self):
@@ -141,3 +142,58 @@ Coding exercise
             pass
         def getRollNumber(self):
             pass
+
+## Challenge 4: Implement a Banking Account
+
+    🔴In this challenge, you will implement a banking account using the concepts of inheritance.
+
+**Problem statement**
+
+Implement the basic structure of a parent class, Account, and a child class, SavingsAccount.
+
+*Task 1*
+
+👉  Implement properties as instance variables, and set them to None or 0.
+
+`Account` has the following properties:
+
+        • title
+        • Balance
+
+`SavingsAccount` has the following properties:
+
+        • interestRate
+
+*Task 2*
+
+Create an initializer for Account class. The order of parameters should be the following, where Ashish is the title, and 5000 is the account balance:
+
+**Account(“Ashish", 5000)**
+
+*Task 3*
+
+Implement properties as instance variables, and set them to None or 0.
+
+Create an initializer for the SavingsAccount class using the initializer of the Account class in the order below:
+
+**Account(“Ashish", 5000, 5)**
+
+Here, Ashish  is the title and 5000 is the balance and 5 is the interestRate.
+
+![image1](images/02.png)
+
+Coding exercise
+
+    class Account:
+
+        def __init__(self):
+            # write your code here
+            pass
+
+    class SavingsAccount():
+
+        def __init__(self):
+            # write your code here
+            Pass
+
+
