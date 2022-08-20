@@ -2,7 +2,8 @@
 
 ## The application will have a log-in for admin and users to log-in
 
-**--------------------- Admin ----------------------------------**
+--------------------- Admin ----------------------------------
+
 :arrow_right: Admin will have the following functionalities:
 
     1. :point_right: Add new food items. Food Item will have the following details:
@@ -20,10 +21,11 @@
 
     4. :point_right: Remove a food item from the menu using FoodID.
 
-**--------------------- User ----------------------------------**
+--------------------- User ----------------------------------
+
 :arrow_right: The user will have the following functionalities:
 
-    1. :point_right: Register on the application. Following to be entered for registration:
+    1.:point_right: Register on the application. Following to be entered for registration:
 
         - Full Name
         - Phone Number
