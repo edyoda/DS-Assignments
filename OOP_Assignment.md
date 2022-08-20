@@ -15,7 +15,7 @@ Sample properties
 Sample method output
     `35`
 
-![image]("https://github.com/edyoda/DS-Assignments/blob/main/images/01.png")
+![image]("images/01.png")
 
 **Coding exercise**
 Create a class `Point` with three properties: `x`, `y`, and `z`.
