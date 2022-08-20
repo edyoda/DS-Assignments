@@ -7,12 +7,12 @@
 :arrow_right: Admin will have the following functionalities: ⬅️
 
     👉 1. Add new food items. Food Item will have the following details:
-        - FoodID //It should be generated automatically by the application.
-        - Name
-        - Quantity. For eg, 100ml, 250gm, 4pieces etc
-        - Price
-        - Discount
-        - Stock. Amount left in stock in the restaurant.
+            🔴 FoodID //It should be generated automatically by the application.
+            🔴 Name
+            🔴 Quantity. For eg, 100ml, 250gm, 4pieces etc
+            🔴 Price
+            🔴 Discount
+            🔴 Stock. Amount left in stock in the restaurant.
 
     👉 2. Edit food items using FoodID.
 
