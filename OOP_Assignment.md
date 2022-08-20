@@ -27,7 +27,7 @@ Create a class `Point` with three properties: `x`, `y`, and `z`.
 
 class Point:
 
-    def ` __init__ `(self):
+    def __init__(self):
         self.x = x
         self.y = y
         self.z = z
