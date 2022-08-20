@@ -293,7 +293,7 @@ Coding exercise
             # write code here
             pass
 
-`#code to test - do not edit this`
+    #code to test - do not edit this
 
-`demo1 = SavingsAccount(“Ashish", 2000, 5) `  # initializing a SavingsAccount object
+    demo1 = SavingsAccount(“Ashish", 2000, 5)   # initializing a SavingsAccount object
 
