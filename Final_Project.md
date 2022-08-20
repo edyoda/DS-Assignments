@@ -6,8 +6,7 @@
 
 :arrow_right: Admin will have the following functionalities:
 
-    1. :point_right: Add new food items. Food Item will have the following details:
-
+    :point_right:  1. Add new food items. Food Item will have the following details:
         - FoodID //It should be generated automatically by the application.
         - Name
         - Quantity. For eg, 100ml, 250gm, 4pieces etc
@@ -15,11 +14,11 @@
         - Discount
         - Stock. Amount left in stock in the restaurant.
 
-    2. :point_right: Edit food items using FoodID.
+    :point_right: 2. Edit food items using FoodID.
 
-    3. :point_right: View the list of all food items.
+    :point_right: 3. View the list of all food items.
 
-    4. :point_right: Remove a food item from the menu using FoodID.
+    :point_right: 4. Remove a food item from the menu using FoodID.
 
 --------------------- User ----------------------------------
 
