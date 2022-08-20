@@ -20,15 +20,17 @@ Sample properties
 Sample method output
     `35`
 
-<img src="images/01.png" width="160"/>
+![image1](images/01.png)
 
 **Coding exercise**
 Create a class `Point` with three properties: `x`, `y`, and `z`.
+
 class Point:
-    def __init__(self):
+    def ` __init__ `(self):
         self.x = x
         self.y = y
         self.z = z
+        
     def sqSum(self):
         pass
 
