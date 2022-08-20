@@ -168,7 +168,7 @@ Implement the basic structure of a parent class, `Account`, and a child class, `
 
 Create an `initializer` for Account class. The order of parameters should be the following, where `Ashish` is the `title`, and `5000` is the `account balance`:
 
-**Account(“Ashish", 5000)**
+**Account("Ashish", 5000)**
 
 *Task 3*
 
@@ -176,7 +176,7 @@ Implement properties as **instance variables**, and set them to `None` or `0`.
 
 Create an `initializer` for the `SavingsAccount` class using the initializer of the `Account` class in the order below:
 
-**Account(“Ashish", 5000, 5)**
+**Account("Ashish", 5000, 5)**
 
 Here, `Ashish`  is the `title` and `5000` is the `balance` and `5` is the `interestRate`.
 
@@ -295,5 +295,5 @@ Coding exercise
 
     #code to test - do not edit this
 
-    demo1 = SavingsAccount(“Ashish", 2000, 5)   # initializing a SavingsAccount object
+    demo1 = SavingsAccount("Ashish", 2000, 5)   # initializing a SavingsAccount object
 
