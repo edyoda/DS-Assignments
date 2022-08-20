@@ -157,12 +157,12 @@ Implement the basic structure of a parent class, `Account`, and a child class, `
 
 `Account` has the following properties:
 
-        • `title`
-        • `Balance`
+        • title
+        • Balance
 
 `SavingsAccount` has the following properties:
 
-        • `interestRate`
+        • interestRate
 
 *Task 2*
 
@@ -218,13 +218,13 @@ It **does not** return anything.
 
 Sample input
 
-    `balance = 2000`
-    `deposit(500)`
-    `getbalance()`
+    balance = 2000
+    deposit(500)
+    getbalance()
 
 Sample output
 
-    `2500`
+    2500
 
 *Task 3*
 
@@ -234,13 +234,13 @@ It **does not** return anything.
 
 Sample input
 
-    `balance = 2000`
-    `withdrawal(500)`
-    `getbalance()`
+    balance = 2000
+    withdrawal(500)
+    getbalance()
 
 Sample output
 
-    `1500`
+    1500
 
 *Task 4*
 
@@ -252,13 +252,13 @@ In the `SavingsAccount` class, implement an `interestAmount()` *method* that **r
 
 Sample input
 
-    `balance = 2000`
-    `interestRate = 5`
-    `interestAmount()`
+    balance = 2000
+    interestRate = 5
+    interestAmount()
 
 Sample output
 
-    `100`
+    100
 
 `The following figure shows what the result should logically look like:`
 
@@ -294,5 +294,6 @@ Coding exercise
             pass
 
 `#code to test - do not edit this`
-`demo1 = SavingsAccount(“Ashish", 2000, 5) ` # initializing a SavingsAccount object
+
+`demo1 = SavingsAccount(“Ashish", 2000, 5) `  # initializing a SavingsAccount object
 
