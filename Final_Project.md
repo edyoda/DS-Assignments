@@ -51,6 +51,4 @@
     👉 7. Order History should show a list of all the previous orders
 
     👉 8. Update Profile: the user should be able to update their profile.
-
-
 :arrow_right: Upload the python files on Github and submit the Github repo URL on the assignment page
