@@ -52,3 +52,13 @@
 
     👉 8. Update Profile: the user should be able to update their profile.
 :arrow_right: Upload the python files on Github and submit the Github repo URL on the assignment page
+
+
+### Additional task to the students
+### Add Search Functionality:
+
+Create a new function, say search_food(), that takes a keyword as input from the user.
+
+Search for food items whose names contain the entered keyword.
+
+Display the matching food items along with their details.
